@@ -1,0 +1,9 @@
+numpy
+scipy
+pyaml
+cadquery
+cadquery-ocp
+multimethod
+typish
+ezdxf
+nptyping
